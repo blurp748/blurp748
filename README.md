@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blurp748&show_icons=true&locale=en" alt="blurp748" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blurp748&" alt="blurp748" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blurp748&theme=hacker&hide_border=true&date_format=j%2Fn%5B%2FY%5D%22/%3E" />
