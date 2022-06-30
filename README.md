@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathis Tanghe</h1>
-<h3 align="center">I'm currently learning mobile apps dev</h3>
+<h3 align="center">I'm currently learning Kotlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blurp748&label=Profile%20views&color=0e75b6&style=flat" alt="blurp748" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
